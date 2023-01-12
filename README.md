@@ -1,5 +1,5 @@
 # Artificial Intelligence
 
-Aquarium Model
+Aquarium Model.
 
-Optimization of Functions Through Search Methods
+Optimization of Functions Through Search Methods.

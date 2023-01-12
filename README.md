@@ -1,4 +1,4 @@
-# ArtificialIntelligence
+# Artificial Intelligence
 
 Aquarium Model
 
